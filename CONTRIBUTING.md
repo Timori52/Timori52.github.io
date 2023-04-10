@@ -6,7 +6,7 @@ Thank you for your interest in contributing. Here's everything you'll need to ma
 
 We welcome contributions of all sorts. Even the most minor changes are warmly welcomed. You may choose to work on an existing issue or propose your own.
 
-Some examples of contributions are:
+Some examples of contributions are::
 
 1. Documentation: From spell corrections to documenting the necessary information, all comes in this section.
 
