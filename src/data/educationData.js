@@ -1,11 +1,11 @@
 export const educationData = [
-    {
-        id: 1,
-        institution: 'Raja Balwant Singh Technical Campus, Agra',
-        course: 'Master of Computer Application - MCA',
-        startYear: '2023',
-        endYear: '2025'
-    },
+    // {
+    //     id: 1,
+    //     institution: 'Raja Balwant Singh Technical Campus, Agra',
+    //     course: 'Master of Computer Application - MCA',
+    //     startYear: '2023',
+    //     endYear: '2025'
+    // },
     {
         id: 2,
         institution: 'Uttam Institute of Technology and Managemnet, Agra',
