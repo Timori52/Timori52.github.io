@@ -5,7 +5,7 @@ export const educationData = [
     //     course: 'Master of Computer Application - MCA',
     //     startYear: '2023',
     //     endYear: '2025'
-    // },
+    
     {
         id: 2,
         institution: 'Uttam Institute of Technology and Managemnet, Agra',
