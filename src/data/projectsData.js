@@ -1,7 +1,7 @@
 import one from '../assets/svg/projects/one.svg'
 import two from '../assets/svg/projects/two.svg'
 import three from '../assets/svg/projects/three.svg'
-// import four from '../assets/svg/projects/four.svg'
+import four from '../assets/svg/projects/four.svg'
 // import five from '../assets/svg/projects/five.svg'
 // import six from '../assets/svg/projects/six.svg'
 // import seven from '../assets/svg/projects/seven.svg'
@@ -20,6 +20,15 @@ export const projectsData = [
     },
     {
         id: 2,
+        projectName: 'Rasoi Ghar App',
+        projectDesc: 'Rasio-Ghar where you can order your favorite & delicious just in a min just go surf or search by catergory and slide it into your cart and pay the discounted money.',
+        tags: ['React', 'Firebase', 'Tailwind', 'Redux'],
+        code: 'https://github.com/Timori52/Rasio-Ghar',
+        demo: 'https://rasoi-ghar.netlify.app',
+        image: four
+    },
+    {
+        id: 3,
         projectName: 'ED-tech Company',
         projectDesc: 'Developed a responsive and user-friendly website for an Ed-Tech company using React.JS and Restful APIs & Converted the website to Next.js to improve performance and SEO. Collaborated with design and QA teams, provided ongoing maintenance and support.',
         tags: ['React',"NextJS","RestAPI", "Tailwind", "Redux","Postman"  ],
@@ -28,23 +37,15 @@ export const projectsData = [
         image: two
     },
     {
-        id: 3,
+        id: 4,
         projectName: 'Form Validation App',
         projectDesc: 'Just validation app which validates Username, Email,Password & Confirm Segment.',
         tags: ['FORMIK', 'React', 'Tailwind CSS'],
         code: 'https://github.com/Timori52/Form-validation-project',
         demo: 'https://form-validating-project.netlify.app',
         image: three
-    }
-    // {
-    //     id: 4,
-    //     projectName: 'Android Patient Tracker',
-    //     projectDesc: 'This project involves the development of an Android application for viewing and managing patient data.',
-    //     tags: ['Flutter', 'Firebase'],
-    //     code: 'https://github.com/hhhrrrttt222111/developer-portfolio',
-    //     demo: 'https://github.com/hhhrrrttt222111/developer-portfolio',
-    //     image: four
-    // },
+    },
+    
     // {
     //     id: 5,
     //     projectName: 'E-Commerce App',

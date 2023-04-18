@@ -5,7 +5,7 @@ export const experienceData = [
         jobtitle: 'React Developer',
         startYear: 'DEC-2022',
         endYear: 'APR-2023',
-        desc: 'adkfbjhabdfjbaslkjdbflkasbdf ak kasdf adgf ajf gajegf u'
+       
     },
     
 ]
